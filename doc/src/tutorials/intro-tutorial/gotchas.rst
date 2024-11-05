@@ -73,7 +73,7 @@ want.
 
 Usually, the best practice is to assign Symbols to Python variables of the
 same name, although there are exceptions:  Symbol names can contain characters
-that are not allowed in Python variable names, or may just want to avoid
+that are not allowed in Python variable names, or you may just want to avoid
 typing long names by assigning Symbols with long names to single letter Python
 variables.
 
